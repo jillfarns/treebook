@@ -10,6 +10,10 @@ gem 'devise'
 
 gem 'simple_form'
 
+group :development, :test do
+	gem 'sqlite3'
+end
+
 gem 'protected_attributes'
 
 gem 'sass-rails', '~> 5.0'
