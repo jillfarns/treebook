@@ -3,3 +3,9 @@ jill:
  last_name: "Farnsworth"
  email: "jillfarnsworth@yahoo.com"
  profile_name: "jillfarns"
+
+jim:
+ first_name: "Jim"
+ last_name: "Hoskins"
+ email: "jim@teamtreehouse.com"
+ profile_name: "jimhoskins"
